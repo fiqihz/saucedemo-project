@@ -30,5 +30,5 @@ git clone https://github.com/fiqihz/saucedemo-project.git
 ## Test reports
 Reports are automatically generated under /Reports folder
 
-##Notes:
+## Notes:
 All executed test cases refer to the manual test cases documented in Google Docs.
